@@ -98,14 +98,14 @@ This project demonstrates the ability to transform raw data into meaningful busi
 
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
-
 git clone <repository-link>
+
 2️⃣ Install Required Python Libraries
-
 pip install pandas numpy matplotlib seaborn
-3️⃣ Open Jupyter Notebook
 
+3️⃣ Open Jupyter Notebook
 jupyter notebook
+
 Run the notebook step-by-step for:
 Data loading
 Cleaning
@@ -118,6 +118,7 @@ Execute provided SQL scripts
 5️⃣ Power BI Dashboard
 Open the .pbix file in Power BI Desktop
 Refresh data source if required
+
 
 📌 Project Deliverables
 Cleaned dataset
