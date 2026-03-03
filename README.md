@@ -121,9 +121,15 @@ Refresh data source if required
 
 
 📌 Project Deliverables
+
 Cleaned dataset
+
 Jupyter Notebook (.ipynb)
+
 SQL query scripts (.sql)
+
 Power BI Dashboard (.pbix)
+
 Analytical Report (PDF)
+
 Presentation Slides (PPT)
